@@ -1,0 +1,83 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/17270824_300x300" group-title="NOTÍCIAS",CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://guarulhosdigital.com.br/arquivos/noticias/949/destaque.jpg" group-title="CANAL ABERTO", TVE BRASIL
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANAIS INTERNACIONAIS", TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LBOWYOoTpNPNa5JpX337csvwwdRtlcdaCOEii0g4t81V9k8mmhbcVDlv79yNPBT1dFM&usqp=CAU" group-title="CANAIS INTERNACIONAIS", VTV
+####################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/cc/cubavision_internacional.png" tvg-id="" group-title="aberto" ,TV COM DF 
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/chunklist_w1181194628_b2628000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/cc/cubavision_internacional.png" tvg-id="" group-title="CUBA" ,Cubavisión Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b2530953.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U5GKOZQ.jpg" group-title="TV Aberta",TVU Recife
+http://150.161.93.220/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/2IqYTN4.png" group-title="TV Aberta", Canal Saúde
+###########################################################################################
+
+#EXTINF:0 type="stream" channelId="2663", telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="2663", telesur 480p
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="378", TVE Bahia HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1, Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" Nicaraguense 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Canal6NI2012b.png/revision/latest?cb=20220803024103&path-prefix=es" group-title="Nicaragua", Nicaraguense 6
+https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MAA9BivVwO2V7elm0T6MWNAcf6ANmcgYrH6oDqq7mqcs)/dm/3/x8o87cu/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
+#########################################################################################
+
+#EXTINF:-1 tvg-id="KCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBU81ryjI55xZN76ni-FQceJI88Aj1505Jz6MAhGkyig&s" group-title="KOREIA",KCTV
+https://tv.nknews.org/tvarchive/stream-1700038257-2023-11-15-08-50/stream-1700038257-2023-11-15-08-50/stream-1700038257-2023-11-15-08-50.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="TV Aberta",UFG TV
+############################################################################################
+
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT
+######################################################################################
+
+#EXTINF:-1 tvg-id="Bolivia TV 7.1" tvg-logo="https://pbs.twimg.com/profile_images/1699146477631606784/hV2Wawlj_400x400.jpg" group-title="Bolivia", Bolivia TV 7.1
+https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w82942875.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyMyA0OjA0OjE2IFBNJmhhc2hfdmFsdWU9aWVPRmFjMkZld3JncGtpTXFMVEM2Zz09JnZhbGlkbWludXRlcz0yNSZpZD0%3D
+
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://gdb.rferl.org/2BA3C615-4CA9-44B2-A05A-D21ED2E7BCE5_w1080_h608_s.jpg" group-title="Russia",RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EDUCATIVA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yqCJxR369nIn_siEd2sWD_pY0hU2k5bTNY7r7HxAw0fJ9ILhkzQsF_T9w431DLfPa6Y&usqp=CAU" group-title="Rádio", EDUCATIVA FM
+https://edge-al-01.eduplay.rnp.br/media/ocp(r(rvEBlQ)t(F6dAxO3Ama0)p(d(DOo)k(gxA)m(XqJ4fv7NE1Skl--XYOHGwA)n(a(lDTmPXEIB9Zi33_wc23pLLtNxdw)s(nSk)'a(KOE3U8TxxdtNDlJWTKI-7PLy)s(c1w)))s(t(mqw)b(vOJcy3cRlgFHHvcvalfRBDUGLZEYbp8yYp-1ftXA_1HSTEGlz8nqwbECTk8VbEfGwCqJS0GEK6npFt6CUqbgBwugrHqVZPP6HAxsdnkJQYcase4SxUHv1QC1hT1IefbFqGS8HXM6lzkSacaFihKXU8T9FfP53YiqpwY0ooc)'t(RAo)b(trJdObuZi2by830zYV9MuEdqwm-2xqI-dKg)))/720_index.m3u8
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PE
+##########################################################################################
+
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
+#############################################################################################
+
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola
+###################################################################################################
+
+#EXTINF:-1 tvg-id="HISPANTV" tvg-logo="https://www.azam.info/images/hispan-tv-logo-television-station-interview.png" group-title="Iran",HISPANTV
+https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w477438205_b644100_slen.m3u8
+
+
+#EXTINF:-1 tvg-id="Bolivia TV 7.2" tvg-logo="https://pbs.twimg.com/profile_images/1699146477631606784/hV2Wawlj_400x400.jpg" group-title="Bolivia", Bolivia TV 7.2
+https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1329019303.m3u8
